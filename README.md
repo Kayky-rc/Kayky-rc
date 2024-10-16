@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋! Me chamo Kayky Rocha Cruz</h1>
+<h1 align="center">Oi 👋! Me chamo Kayky Rocha Cruz</h1>
 
 ###
 
